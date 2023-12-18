@@ -2,11 +2,11 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Sitemap Scraper](https://oxylabs.io/products/scraper-api/web/sitemap-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Sitemap website effortlessly. This brief guide explains how an Sitemap Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Sitemap Scraper](https://oxylabs.io/products/scraper-api/web/sitemap-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any sitemap effortlessly. This brief guide explains how a Sitemap Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Sitemap results by providing your own URLs to our service. We can return the HTML for any Sitemap page you like.
+You can get sitemap results by providing your own URLs to our service. We can return the HTML for any sitemap you like.
 
 #### Python code example
 
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-Using our Sitemap Scraper, you can easily extract public data from any Sitemap webpage. Gather crucial student information, like attendance, grades, or achievements, to better understand their educational trajectory and stay ahead in your curriculum planning. If you need further assistance, feel free to reach out to our support team via live chat or drop us an email at hello@oxylabs.io.
+Using our Sitemap Scraper, you can easily extract website data from any sitemap. If you need further assistance, feel free to reach out to our support team via live chat or drop us an email at hello@oxylabs.io.
