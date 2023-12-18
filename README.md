@@ -10,7 +10,7 @@ You can get sitemap results by providing your own URLs to our service. We can re
 
 #### Python code example
 
-The example below illustrates how you can get sitemap of [oxylabs.io](https://oxylabs.io/)
+The example below illustrates how you can get a sitemap of [oxylabs.io](https://oxylabs.io/).
 
 ```python
 import requests
